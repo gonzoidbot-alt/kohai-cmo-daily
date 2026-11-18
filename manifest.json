@@ -1,0 +1,2012 @@
+[
+ {
+  "file": "drafts/2026-09-09-blog.md",
+  "date": "2026-09-09",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-09-geo.md",
+  "date": "2026-09-09",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-09-launch-linkedin.md",
+  "date": "2026-09-09",
+  "channel": "launch-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-09-launch-x.md",
+  "date": "2026-09-09",
+  "channel": "launch-x"
+ },
+ {
+  "file": "drafts/2026-09-09-reddit-hn.md",
+  "date": "2026-09-09",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-09-seo.md",
+  "date": "2026-09-09",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-10-blog.md",
+  "date": "2026-09-10",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-10-geo.md",
+  "date": "2026-09-10",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-10-reddit-hn.md",
+  "date": "2026-09-10",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-10-seo.md",
+  "date": "2026-09-10",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-10-show-hn.md",
+  "date": "2026-09-10",
+  "channel": "show-hn"
+ },
+ {
+  "file": "drafts/2026-09-10-x-linkedin.md",
+  "date": "2026-09-10",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-11-blog.md",
+  "date": "2026-09-11",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-11-geo.md",
+  "date": "2026-09-11",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-11-reddit-hn.md",
+  "date": "2026-09-11",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-11-seo.md",
+  "date": "2026-09-11",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-11-x-linkedin.md",
+  "date": "2026-09-11",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-12-blog.md",
+  "date": "2026-09-12",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-12-geo.md",
+  "date": "2026-09-12",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-12-reddit-hn.md",
+  "date": "2026-09-12",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-12-seo.md",
+  "date": "2026-09-12",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-12-signals.md",
+  "date": "2026-09-12",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-12-x-linkedin.md",
+  "date": "2026-09-12",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-13-blog.md",
+  "date": "2026-09-13",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-13-geo.md",
+  "date": "2026-09-13",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-13-reddit-hn.md",
+  "date": "2026-09-13",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-13-seo.md",
+  "date": "2026-09-13",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-13-signals.md",
+  "date": "2026-09-13",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-13-x-linkedin.md",
+  "date": "2026-09-13",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-14-blog.md",
+  "date": "2026-09-14",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-14-geo.md",
+  "date": "2026-09-14",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-14-reddit-hn.md",
+  "date": "2026-09-14",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-14-seo.md",
+  "date": "2026-09-14",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-14-signals.md",
+  "date": "2026-09-14",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-14-x-linkedin.md",
+  "date": "2026-09-14",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-15-blog.md",
+  "date": "2026-09-15",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-15-geo.md",
+  "date": "2026-09-15",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-15-reddit-hn.md",
+  "date": "2026-09-15",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-15-seo.md",
+  "date": "2026-09-15",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-15-signals.md",
+  "date": "2026-09-15",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-15-x-linkedin.md",
+  "date": "2026-09-15",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-16-blog.md",
+  "date": "2026-09-16",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-16-geo.md",
+  "date": "2026-09-16",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-16-reddit-hn.md",
+  "date": "2026-09-16",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-16-seo.md",
+  "date": "2026-09-16",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-16-signals.md",
+  "date": "2026-09-16",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-16-x-linkedin.md",
+  "date": "2026-09-16",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-17-blog.md",
+  "date": "2026-09-17",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-17-geo.md",
+  "date": "2026-09-17",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-17-reddit-hn.md",
+  "date": "2026-09-17",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-17-seo.md",
+  "date": "2026-09-17",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-17-signals.md",
+  "date": "2026-09-17",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-17-x-linkedin.md",
+  "date": "2026-09-17",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-18-blog.md",
+  "date": "2026-09-18",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-18-geo.md",
+  "date": "2026-09-18",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-18-reddit-hn.md",
+  "date": "2026-09-18",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-18-seo.md",
+  "date": "2026-09-18",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-18-signals.md",
+  "date": "2026-09-18",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-18-x-linkedin.md",
+  "date": "2026-09-18",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-19-blog.md",
+  "date": "2026-09-19",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-19-geo.md",
+  "date": "2026-09-19",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-19-reddit-hn.md",
+  "date": "2026-09-19",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-19-seo.md",
+  "date": "2026-09-19",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-19-signals.md",
+  "date": "2026-09-19",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-19-x-linkedin.md",
+  "date": "2026-09-19",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-20-blog.md",
+  "date": "2026-09-20",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-20-geo.md",
+  "date": "2026-09-20",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-20-reddit-hn.md",
+  "date": "2026-09-20",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-20-seo.md",
+  "date": "2026-09-20",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-20-signals.md",
+  "date": "2026-09-20",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-20-x-linkedin.md",
+  "date": "2026-09-20",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-21-blog.md",
+  "date": "2026-09-21",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-21-geo.md",
+  "date": "2026-09-21",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-21-reddit-hn.md",
+  "date": "2026-09-21",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-21-seo.md",
+  "date": "2026-09-21",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-21-signals.md",
+  "date": "2026-09-21",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-21-x-linkedin.md",
+  "date": "2026-09-21",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-22-blog.md",
+  "date": "2026-09-22",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-22-geo.md",
+  "date": "2026-09-22",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-22-reddit-hn.md",
+  "date": "2026-09-22",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-22-seo.md",
+  "date": "2026-09-22",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-22-signals.md",
+  "date": "2026-09-22",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-22-x-linkedin.md",
+  "date": "2026-09-22",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-23-blog.md",
+  "date": "2026-09-23",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-23-geo.md",
+  "date": "2026-09-23",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-23-reddit-hn.md",
+  "date": "2026-09-23",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-23-seo.md",
+  "date": "2026-09-23",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-23-signals.md",
+  "date": "2026-09-23",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-23-x-linkedin.md",
+  "date": "2026-09-23",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-24-blog.md",
+  "date": "2026-09-24",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-24-geo.md",
+  "date": "2026-09-24",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-24-reddit-hn.md",
+  "date": "2026-09-24",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-24-seo.md",
+  "date": "2026-09-24",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-24-signals.md",
+  "date": "2026-09-24",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-24-x-linkedin.md",
+  "date": "2026-09-24",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-25-blog.md",
+  "date": "2026-09-25",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-25-geo.md",
+  "date": "2026-09-25",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-25-newsletter.md",
+  "date": "2026-09-25",
+  "channel": "newsletter"
+ },
+ {
+  "file": "drafts/2026-09-25-reddit-hn.md",
+  "date": "2026-09-25",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-25-seo.md",
+  "date": "2026-09-25",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-25-signals.md",
+  "date": "2026-09-25",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-25-x-linkedin.md",
+  "date": "2026-09-25",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-26-blog.md",
+  "date": "2026-09-26",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-26-geo.md",
+  "date": "2026-09-26",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-26-reddit-hn.md",
+  "date": "2026-09-26",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-26-seo.md",
+  "date": "2026-09-26",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-26-signals.md",
+  "date": "2026-09-26",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-26-x-linkedin.md",
+  "date": "2026-09-26",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-27-blog.md",
+  "date": "2026-09-27",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-27-geo.md",
+  "date": "2026-09-27",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-27-reddit-hn.md",
+  "date": "2026-09-27",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-27-seo.md",
+  "date": "2026-09-27",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-27-signals.md",
+  "date": "2026-09-27",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-27-x-linkedin.md",
+  "date": "2026-09-27",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-28-blog.md",
+  "date": "2026-09-28",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-28-geo.md",
+  "date": "2026-09-28",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-28-reddit-hn.md",
+  "date": "2026-09-28",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-28-seo.md",
+  "date": "2026-09-28",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-28-signals.md",
+  "date": "2026-09-28",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-28-x-linkedin.md",
+  "date": "2026-09-28",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-29-geo.md",
+  "date": "2026-09-29",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-29-reddit-hn.md",
+  "date": "2026-09-29",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-29-seo.md",
+  "date": "2026-09-29",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-29-signals.md",
+  "date": "2026-09-29",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-29-writer.md",
+  "date": "2026-09-29",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-09-29-x-linkedin.md",
+  "date": "2026-09-29",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-09-30-blog.md",
+  "date": "2026-09-30",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-09-30-geo.md",
+  "date": "2026-09-30",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-09-30-reddit-hn.md",
+  "date": "2026-09-30",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-09-30-seo.md",
+  "date": "2026-09-30",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-09-30-signals.md",
+  "date": "2026-09-30",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-09-30-x-linkedin.md",
+  "date": "2026-09-30",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-01-geo.md",
+  "date": "2026-10-01",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-01-reddit-hn.md",
+  "date": "2026-10-01",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-01-seo.md",
+  "date": "2026-10-01",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-01-signals.md",
+  "date": "2026-10-01",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-01-writer.md",
+  "date": "2026-10-01",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-01-x-linkedin.md",
+  "date": "2026-10-01",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-02-blog.md",
+  "date": "2026-10-02",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-10-02-geo.md",
+  "date": "2026-10-02",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-02-reddit-hn.md",
+  "date": "2026-10-02",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-02-seo.md",
+  "date": "2026-10-02",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-02-signals.md",
+  "date": "2026-10-02",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-02-x-linkedin.md",
+  "date": "2026-10-02",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-03-blog.md",
+  "date": "2026-10-03",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-10-03-geo.md",
+  "date": "2026-10-03",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-03-reddit-hn.md",
+  "date": "2026-10-03",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-03-seo.md",
+  "date": "2026-10-03",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-03-signals.md",
+  "date": "2026-10-03",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-03-x-linkedin.md",
+  "date": "2026-10-03",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-04-geo.md",
+  "date": "2026-10-04",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-04-reddit-hn.md",
+  "date": "2026-10-04",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-04-seo.md",
+  "date": "2026-10-04",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-04-signals.md",
+  "date": "2026-10-04",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-04-writer.md",
+  "date": "2026-10-04",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-04-x-linkedin.md",
+  "date": "2026-10-04",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-05-geo.md",
+  "date": "2026-10-05",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-05-reddit-hn.md",
+  "date": "2026-10-05",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-05-seo.md",
+  "date": "2026-10-05",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-05-signals.md",
+  "date": "2026-10-05",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-05-writer.md",
+  "date": "2026-10-05",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-05-x-linkedin.md",
+  "date": "2026-10-05",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-06-geo.md",
+  "date": "2026-10-06",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-06-reddit-hn.md",
+  "date": "2026-10-06",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-06-seo.md",
+  "date": "2026-10-06",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-06-signals.md",
+  "date": "2026-10-06",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-06-writer.md",
+  "date": "2026-10-06",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-06-x-linkedin.md",
+  "date": "2026-10-06",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-07-geo.md",
+  "date": "2026-10-07",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-07-reddit-hn.md",
+  "date": "2026-10-07",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-07-seo.md",
+  "date": "2026-10-07",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-07-signals.md",
+  "date": "2026-10-07",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-07-writer.md",
+  "date": "2026-10-07",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-07-x-linkedin.md",
+  "date": "2026-10-07",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-08-blog.md",
+  "date": "2026-10-08",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-10-08-geo.md",
+  "date": "2026-10-08",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-08-reddit-hn.md",
+  "date": "2026-10-08",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-08-seo.md",
+  "date": "2026-10-08",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-08-signals.md",
+  "date": "2026-10-08",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-08-x-linkedin.md",
+  "date": "2026-10-08",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-09-geo.md",
+  "date": "2026-10-09",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-09-reddit-hn.md",
+  "date": "2026-10-09",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-09-seo.md",
+  "date": "2026-10-09",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-09-signals.md",
+  "date": "2026-10-09",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-09-writer.md",
+  "date": "2026-10-09",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-09-x-linkedin.md",
+  "date": "2026-10-09",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-10-geo.md",
+  "date": "2026-10-10",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-10-reddit-hn.md",
+  "date": "2026-10-10",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-10-seo.md",
+  "date": "2026-10-10",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-10-signals.md",
+  "date": "2026-10-10",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-10-writer.md",
+  "date": "2026-10-10",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-10-x-linkedin.md",
+  "date": "2026-10-10",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-11-geo.md",
+  "date": "2026-10-11",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-11-reddit-hn.md",
+  "date": "2026-10-11",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-11-seo.md",
+  "date": "2026-10-11",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-11-signals.md",
+  "date": "2026-10-11",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-11-writer.md",
+  "date": "2026-10-11",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-11-x-linkedin.md",
+  "date": "2026-10-11",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-12-geo.md",
+  "date": "2026-10-12",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-12-reddit-hn.md",
+  "date": "2026-10-12",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-12-seo.md",
+  "date": "2026-10-12",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-12-signals.md",
+  "date": "2026-10-12",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-12-writer.md",
+  "date": "2026-10-12",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-12-x-linkedin.md",
+  "date": "2026-10-12",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-13-geo.md",
+  "date": "2026-10-13",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-13-reddit-hn.md",
+  "date": "2026-10-13",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-13-seo.md",
+  "date": "2026-10-13",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-13-signals.md",
+  "date": "2026-10-13",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-13-writer.md",
+  "date": "2026-10-13",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-13-x-linkedin.md",
+  "date": "2026-10-13",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-14-geo.md",
+  "date": "2026-10-14",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-14-reddit-hn.md",
+  "date": "2026-10-14",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-14-seo.md",
+  "date": "2026-10-14",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-14-signals.md",
+  "date": "2026-10-14",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-14-writer.md",
+  "date": "2026-10-14",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-14-x-linkedin.md",
+  "date": "2026-10-14",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-15-geo.md",
+  "date": "2026-10-15",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-15-reddit-hn.md",
+  "date": "2026-10-15",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-15-seo.md",
+  "date": "2026-10-15",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-15-signals.md",
+  "date": "2026-10-15",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-15-writer.md",
+  "date": "2026-10-15",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-15-x-linkedin.md",
+  "date": "2026-10-15",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-16-geo.md",
+  "date": "2026-10-16",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-16-reddit-hn.md",
+  "date": "2026-10-16",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-16-seo.md",
+  "date": "2026-10-16",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-16-signals.md",
+  "date": "2026-10-16",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-16-writer.md",
+  "date": "2026-10-16",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-16-x-linkedin.md",
+  "date": "2026-10-16",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-17-geo.md",
+  "date": "2026-10-17",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-17-reddit-hn.md",
+  "date": "2026-10-17",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-17-seo.md",
+  "date": "2026-10-17",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-17-signals.md",
+  "date": "2026-10-17",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-17-writer.md",
+  "date": "2026-10-17",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-17-x-linkedin.md",
+  "date": "2026-10-17",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-18-geo.md",
+  "date": "2026-10-18",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-18-reddit-hn.md",
+  "date": "2026-10-18",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-18-seo.md",
+  "date": "2026-10-18",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-18-signals.md",
+  "date": "2026-10-18",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-18-writer.md",
+  "date": "2026-10-18",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-18-x-linkedin.md",
+  "date": "2026-10-18",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-19-geo.md",
+  "date": "2026-10-19",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-19-reddit-hn.md",
+  "date": "2026-10-19",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-19-seo.md",
+  "date": "2026-10-19",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-19-signals.md",
+  "date": "2026-10-19",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-19-writer.md",
+  "date": "2026-10-19",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-19-x-linkedin.md",
+  "date": "2026-10-19",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-20-geo.md",
+  "date": "2026-10-20",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-20-reddit-hn.md",
+  "date": "2026-10-20",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-20-seo.md",
+  "date": "2026-10-20",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-20-signals.md",
+  "date": "2026-10-20",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-20-writer.md",
+  "date": "2026-10-20",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-20-x-linkedin.md",
+  "date": "2026-10-20",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-21-geo.md",
+  "date": "2026-10-21",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-21-reddit-hn.md",
+  "date": "2026-10-21",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-21-seo.md",
+  "date": "2026-10-21",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-21-signals.md",
+  "date": "2026-10-21",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-21-writer.md",
+  "date": "2026-10-21",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-21-x-linkedin.md",
+  "date": "2026-10-21",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-22-geo.md",
+  "date": "2026-10-22",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-22-reddit-hn.md",
+  "date": "2026-10-22",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-22-seo.md",
+  "date": "2026-10-22",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-22-signals.md",
+  "date": "2026-10-22",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-22-writer.md",
+  "date": "2026-10-22",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-22-x-linkedin.md",
+  "date": "2026-10-22",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-25-geo.md",
+  "date": "2026-10-25",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-25-reddit-hn.md",
+  "date": "2026-10-25",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-25-seo.md",
+  "date": "2026-10-25",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-25-signals.md",
+  "date": "2026-10-25",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-25-writer.md",
+  "date": "2026-10-25",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-25-x-linkedin.md",
+  "date": "2026-10-25",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-28-geo.md",
+  "date": "2026-10-28",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-28-reddit-hn.md",
+  "date": "2026-10-28",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-28-seo.md",
+  "date": "2026-10-28",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-28-signals.md",
+  "date": "2026-10-28",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-28-writer.md",
+  "date": "2026-10-28",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-28-x-linkedin.md",
+  "date": "2026-10-28",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-29-geo.md",
+  "date": "2026-10-29",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-29-reddit-hn.md",
+  "date": "2026-10-29",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-29-seo.md",
+  "date": "2026-10-29",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-29-signals.md",
+  "date": "2026-10-29",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-29-writer.md",
+  "date": "2026-10-29",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-29-x-linkedin.md",
+  "date": "2026-10-29",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-30-geo.md",
+  "date": "2026-10-30",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-30-reddit-hn.md",
+  "date": "2026-10-30",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-30-seo.md",
+  "date": "2026-10-30",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-30-signals.md",
+  "date": "2026-10-30",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-30-writer.md",
+  "date": "2026-10-30",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-10-30-x-linkedin.md",
+  "date": "2026-10-30",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-10-31-blog.md",
+  "date": "2026-10-31",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-10-31-geo.md",
+  "date": "2026-10-31",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-10-31-reddit-hn.md",
+  "date": "2026-10-31",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-10-31-seo.md",
+  "date": "2026-10-31",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-10-31-signals.md",
+  "date": "2026-10-31",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-10-31-x-linkedin.md",
+  "date": "2026-10-31",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-01-geo.md",
+  "date": "2026-11-01",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-01-reddit-hn.md",
+  "date": "2026-11-01",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-01-seo.md",
+  "date": "2026-11-01",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-01-signals.md",
+  "date": "2026-11-01",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-01-writer.md",
+  "date": "2026-11-01",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-01-x-linkedin.md",
+  "date": "2026-11-01",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-02-geo.md",
+  "date": "2026-11-02",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-02-reddit-hn.md",
+  "date": "2026-11-02",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-02-seo.md",
+  "date": "2026-11-02",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-02-signals.md",
+  "date": "2026-11-02",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-02-writer.md",
+  "date": "2026-11-02",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-02-x-linkedin.md",
+  "date": "2026-11-02",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-03-blog.md",
+  "date": "2026-11-03",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-11-03-geo.md",
+  "date": "2026-11-03",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-03-reddit-hn.md",
+  "date": "2026-11-03",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-03-seo.md",
+  "date": "2026-11-03",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-03-signals.md",
+  "date": "2026-11-03",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-03-x-linkedin.md",
+  "date": "2026-11-03",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-04-geo.md",
+  "date": "2026-11-04",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-04-reddit-hn.md",
+  "date": "2026-11-04",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-04-seo.md",
+  "date": "2026-11-04",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-04-signals.md",
+  "date": "2026-11-04",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-04-writer.md",
+  "date": "2026-11-04",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-04-x-linkedin.md",
+  "date": "2026-11-04",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-05-geo.md",
+  "date": "2026-11-05",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-05-reddit-hn.md",
+  "date": "2026-11-05",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-05-seo.md",
+  "date": "2026-11-05",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-05-signals.md",
+  "date": "2026-11-05",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-05-writer.md",
+  "date": "2026-11-05",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-05-x-linkedin.md",
+  "date": "2026-11-05",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-06-geo.md",
+  "date": "2026-11-06",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-06-reddit-hn.md",
+  "date": "2026-11-06",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-06-seo.md",
+  "date": "2026-11-06",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-06-signals.md",
+  "date": "2026-11-06",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-06-writer.md",
+  "date": "2026-11-06",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-06-x-linkedin.md",
+  "date": "2026-11-06",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-07-geo.md",
+  "date": "2026-11-07",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-07-reddit-hn.md",
+  "date": "2026-11-07",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-07-seo.md",
+  "date": "2026-11-07",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-07-signals.md",
+  "date": "2026-11-07",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-07-writer.md",
+  "date": "2026-11-07",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-07-x-linkedin.md",
+  "date": "2026-11-07",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-08-geo.md",
+  "date": "2026-11-08",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-08-reddit-hn.md",
+  "date": "2026-11-08",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-08-seo.md",
+  "date": "2026-11-08",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-08-signals.md",
+  "date": "2026-11-08",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-08-writer.md",
+  "date": "2026-11-08",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-08-x-linkedin.md",
+  "date": "2026-11-08",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-09-geo.md",
+  "date": "2026-11-09",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-09-reddit-hn.md",
+  "date": "2026-11-09",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-09-seo.md",
+  "date": "2026-11-09",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-09-signals.md",
+  "date": "2026-11-09",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-09-writer.md",
+  "date": "2026-11-09",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-09-x-linkedin.md",
+  "date": "2026-11-09",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-10-blog.md",
+  "date": "2026-11-10",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-11-10-geo.md",
+  "date": "2026-11-10",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-10-reddit-hn.md",
+  "date": "2026-11-10",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-10-seo.md",
+  "date": "2026-11-10",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-10-signals.md",
+  "date": "2026-11-10",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-10-x-linkedin.md",
+  "date": "2026-11-10",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-11-geo.md",
+  "date": "2026-11-11",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-11-reddit-hn.md",
+  "date": "2026-11-11",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-11-seo.md",
+  "date": "2026-11-11",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-11-signals.md",
+  "date": "2026-11-11",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-11-writer.md",
+  "date": "2026-11-11",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-11-x-linkedin.md",
+  "date": "2026-11-11",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-12-blog.md",
+  "date": "2026-11-12",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-11-12-geo.md",
+  "date": "2026-11-12",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-12-reddit-hn.md",
+  "date": "2026-11-12",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-12-seo.md",
+  "date": "2026-11-12",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-12-signals.md",
+  "date": "2026-11-12",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-12-x-linkedin.md",
+  "date": "2026-11-12",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-13-geo.md",
+  "date": "2026-11-13",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-13-reddit-hn.md",
+  "date": "2026-11-13",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-13-seo.md",
+  "date": "2026-11-13",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-13-signals.md",
+  "date": "2026-11-13",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-13-writer.md",
+  "date": "2026-11-13",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-13-x-linkedin.md",
+  "date": "2026-11-13",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-14-geo.md",
+  "date": "2026-11-14",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-14-reddit-hn.md",
+  "date": "2026-11-14",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-14-seo.md",
+  "date": "2026-11-14",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-14-signals.md",
+  "date": "2026-11-14",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-14-writer.md",
+  "date": "2026-11-14",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-14-x-linkedin.md",
+  "date": "2026-11-14",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-15-geo.md",
+  "date": "2026-11-15",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-15-reddit-hn.md",
+  "date": "2026-11-15",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-15-seo.md",
+  "date": "2026-11-15",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-15-signals.md",
+  "date": "2026-11-15",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-15-writer.md",
+  "date": "2026-11-15",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-15-x-linkedin.md",
+  "date": "2026-11-15",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-16-geo.md",
+  "date": "2026-11-16",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-16-reddit-hn.md",
+  "date": "2026-11-16",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-16-seo.md",
+  "date": "2026-11-16",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-16-signals.md",
+  "date": "2026-11-16",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-16-writer.md",
+  "date": "2026-11-16",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-16-x-linkedin.md",
+  "date": "2026-11-16",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-17-geo.md",
+  "date": "2026-11-17",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-17-reddit-hn.md",
+  "date": "2026-11-17",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-17-seo.md",
+  "date": "2026-11-17",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-17-signals.md",
+  "date": "2026-11-17",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-17-writer.md",
+  "date": "2026-11-17",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-17-x-linkedin.md",
+  "date": "2026-11-17",
+  "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-18-geo.md",
+  "date": "2026-11-18",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-18-reddit-hn.md",
+  "date": "2026-11-18",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-18-seo.md",
+  "date": "2026-11-18",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-18-signals.md",
+  "date": "2026-11-18",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-18-writer.md",
+  "date": "2026-11-18",
+  "channel": "writer"
+ },
+ {
+  "file": "drafts/2026-11-18-x-linkedin.md",
+  "date": "2026-11-18",
+  "channel": "x-linkedin"
+ }
+]
