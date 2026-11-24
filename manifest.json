@@ -2153,5 +2153,35 @@
   "file": "drafts/2026-11-23-x-linkedin.md",
   "date": "2026-11-23",
   "channel": "x-linkedin"
+ },
+ {
+  "file": "drafts/2026-11-24-blog.md",
+  "date": "2026-11-24",
+  "channel": "blog"
+ },
+ {
+  "file": "drafts/2026-11-24-geo.md",
+  "date": "2026-11-24",
+  "channel": "geo"
+ },
+ {
+  "file": "drafts/2026-11-24-reddit-hn.md",
+  "date": "2026-11-24",
+  "channel": "reddit-hn"
+ },
+ {
+  "file": "drafts/2026-11-24-seo.md",
+  "date": "2026-11-24",
+  "channel": "seo"
+ },
+ {
+  "file": "drafts/2026-11-24-signals.md",
+  "date": "2026-11-24",
+  "channel": "signals"
+ },
+ {
+  "file": "drafts/2026-11-24-x-linkedin.md",
+  "date": "2026-11-24",
+  "channel": "x-linkedin"
  }
 ]
